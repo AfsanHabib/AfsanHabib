@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AfsanHabib
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Machine Learning
--Linkedin:- https://www.linkedin.com/in/afsan-habib-566340215
+- Linkedin:- https://www.linkedin.com/in/afsan-habib-566340215
 - Facebook:- https://www.facebook.com/afsanhabib10
 
 <!---

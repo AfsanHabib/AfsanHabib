@@ -1,14 +1,12 @@
 <br>
-<br>
-<a href="http://afsanhabib.com/"><u>Afsan Habib</u></a>
-<br>
+<!-- <a href="http://afsanhabib.com/"><u>Afsan Habib</u></a>  -->
 <br>
 
 <!--<a href="https://imgbb.com/"><img src="https://i.ibb.co/qY11bM6/profile11.png" alt="profile11" border="0"></a> -->
 
 ## Hi,
 
-I'm <a href="http://afsanhabib.com/"><u>Afsan Habib</u></a>, a Full Stack Web Application Developer & Machine Learning Engineer.
+I'm <a href="http://afsanhabib.com/"><u>Afsan Habib</u></a>, a Full Stack Web Application Developer & I have a keen interest in machine learning.
 
 Connect with me!
 

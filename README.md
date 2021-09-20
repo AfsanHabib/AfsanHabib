@@ -6,7 +6,7 @@
 
 ## Hi,
 
-This <a href="http://afsanhabib.com/"><u>Afsan Habib</u></a>, Full Stack Web Application Developer & I have a keen interest in machine learning. I love solving problems.
+This is <a href="http://afsanhabib.com/"><u>Afsan Habib</u></a>, Full Stack Web Application Developer & I have a keen interest in machine learning. I love solving problems.
 
 Connect with me!
 

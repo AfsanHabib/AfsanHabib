@@ -6,11 +6,11 @@
 
 ## Hi,
 
-This is <a href="http://afsanhabib.com/"><u>Afsan Habib</u></a>, Full Stack Web Application Developer & I have a keen interest in machine learning. I love solving problems.
+This is <a href="http://afsanhabib.com/"><u>Afsan Habib</u></a>, Python Developer(Django) & I have a keen interest in AI/Machine Learning. I love solving problems.
 
-Connect with me!
+Connect me!
 
-<a href="http://afsanhabib.com/"><u>My Website</u></a>
+[![Website Badge](https://img.shields.io/badge/Website-008000?style=for-the-badge)](http://afsanhabib.com/)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/afsanhabib10)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afsan-habib-566340215)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.Instagram.com/afsanhabib)
@@ -21,9 +21,9 @@ Connect with me!
 :e-mail: &emsp;How to reach me: afsan.uct@gmail.com<br/>
 
 
-#### Github Stats
-
-![Afsan Habib's github stats](https://github-readme-stats.vercel.app/api?username=AfsanHabib&count_private=true&theme=tokyonight&hide=contribs,prs)
-
-
-
+<table style="width:100%">
+  <tr>
+    <th><img src="https://github-readme-stats.vercel.app/api?username=AfsanHabib&show_icons=true&hide_border=true&theme=tokyonight&hide=contribs,prs" /></th>
+    <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfsanHabib&layout=compact&langs_count=6&theme=tokyonight&hide=contribs,prs" /></th>
+  </tr>
+</table>

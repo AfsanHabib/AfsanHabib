@@ -4,7 +4,7 @@
 
 <!--<a href="https://imgbb.com/"><img src="https://i.ibb.co/qY11bM6/profile11.png" alt="profile11" border="0"></a> -->
 
-## Hi,
+## Hi, <img align="center" src="https://media.giphy.com/media/tuvMgAPzxaQBq/giphy.gif"  height="50" width="60" />
 
 This is <a href="http://afsanhabib.com/"><u>Afsan Habib</u></a>, Python Developer(Django) & I have a keen interest in AI/Machine Learning. I love solving problems.
 

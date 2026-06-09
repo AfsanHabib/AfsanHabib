@@ -22,7 +22,7 @@ This is <a href="http://afsanhabib.me/"><u>Afsan Habib</u></a>, Passionate about
 ## About Me
 
 - 🎓 B.Sc. in Computer Science & Engineering
-- 📊 Aspiring Data Engineer, Python & Django Developer
+- 📊 Data Engineer, Python & Django Developer
 - 🗄️ Strong foundation in SQL, PostgreSQL, Python, Data Engineering, ETL Pipelines, Data Warehousing, and Cloud Technologies
 
 ---

@@ -19,14 +19,11 @@ This is <a href="http://afsanhabib.me/"><u>Afsan Habib</u></a>, Passionate about
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - 🎓 B.Sc. in Computer Science & Engineering
-- 🏫 University of Creative Technology Chittagong
-- 📊 Aspiring Data Engineer
-- 💻 Former Freelance Python & Django Developer (2018–2024)
-- 🗄️ Strong foundation in SQL, PostgreSQL, Python, and Data Analytics
-- 🌱 Currently learning Data Engineering, ETL Pipelines, Data Warehousing, and Cloud Technologies
+- 📊 Aspiring Data Engineer, Python & Django Developer
+- 🗄️ Strong foundation in SQL, PostgreSQL, Python, Data Engineering, ETL Pipelines, Data Warehousing, and Cloud Technologies
 
 ---
 

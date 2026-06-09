@@ -22,8 +22,5 @@ Connect me!
 
 
 <table style="width:100%">
-  <tr>
-    <th><img src="https://github-readme-stats.vercel.app/api?username=AfsanHabib&show_icons=true&hide_border=true&theme=tokyonight&hide=contribs,prs" /></th>
-    <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfsanHabib&layout=compact&langs_count=6&theme=tokyonight&hide=contribs,prs" /></th>
-  </tr>
+
 </table>

@@ -4,7 +4,7 @@
 
 <!--<a href="https://imgbb.com/"><img src="https://i.ibb.co/qY11bM6/profile11.png" alt="profile11" border="0"></a> -->
 
-## Hi, <img align="center" src="https://media.giphy.com/media/tuvMgAPzxaQBq/giphy.gif"  height="50" width="60" />
+## Hi, <img align="center" src="https://media.giphy.com/media/tuvMgAPzxaQBq/giphy.gif"  height="30" width="40" />
 
 This is <a href="http://afsanhabib.me/"><u>Afsan Habib</u></a>, Passionate about building scalable data solutions, transforming raw data into meaningful insights, and continuously learning modern data engineering technologies.
 

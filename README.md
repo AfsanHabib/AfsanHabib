@@ -6,9 +6,7 @@
 
 ## Hi, <img align="center" src="https://media.giphy.com/media/tuvMgAPzxaQBq/giphy.gif"  height="50" width="60" />
 
-This is <a href="http://afsanhabib.com/"><u>Afsan Habib</u></a>, Python Developer(Django) & I have a keen interest in AI/Machine Learning. I love solving problems.
-
-Connect me!
+This is <a href="http://afsanhabib.me/"><u>Afsan Habib</u></a>, Passionate about building scalable data solutions, transforming raw data into meaningful insights, and continuously learning modern data engineering technologies.
 
 [![Website Badge](https://img.shields.io/badge/Website-008000?style=for-the-badge)](http://afsanhabib.com/)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/afsanhabib10)
@@ -16,10 +14,21 @@ Connect me!
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.Instagram.com/afsanhabib)
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](afsan.uct@gmail.com)
 
-
-
 :e-mail: &emsp;How to reach me: afsan.uct@gmail.com<br/>
 
+
+---
+
+## 🚀 About Me
+
+- 🎓 B.Sc. in Computer Science & Engineering
+- 🏫 University of Creative Technology Chittagong
+- 📊 Aspiring Data Engineer
+- 💻 Former Freelance Python & Django Developer (2018–2024)
+- 🗄️ Strong foundation in SQL, PostgreSQL, Python, and Data Analytics
+- 🌱 Currently learning Data Engineering, ETL Pipelines, Data Warehousing, and Cloud Technologies
+
+---
 
 <table style="width:100%">
 

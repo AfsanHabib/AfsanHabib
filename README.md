@@ -1,20 +1,16 @@
 <br>
 <!-- <a href="http://afsanhabib.com/"><u>Afsan Habib</u></a>  -->
 <!-- <br> -->
+<h1 align="center">Hi <img align="center" src="https://media.giphy.com/media/tuvMgAPzxaQBq/giphy.gif"  height="30" width="40" /> This is <a href="https://afsan.me/"><u>Afsan Habib</u></a></h1>
+<h3 align="center">Data Engineer || Python Developer(Django)  </h3>
+<p align="center">
+  Building expertise in Data Engineering, including SQL, Python, PostgreSQL, Data Warehousing, ETL Pipelines, and Analytics.
+</p>
 
-<!--<a href="https://imgbb.com/"><img src="https://i.ibb.co/qY11bM6/profile11.png" alt="profile11" border="0"></a> -->
+<p align="center">
+:e-mail:&emsp;afsan.uct@gmail.com
+</p>
 
-## Hi, <img align="center" src="https://media.giphy.com/media/tuvMgAPzxaQBq/giphy.gif"  height="30" width="40" />
-
-This is <a href="http://afsanhabib.me/"><u>Afsan Habib</u></a>, Passionate about building scalable data solutions, transforming raw data into meaningful insights, and continuously learning modern data engineering technologies.
-
-[![Website Badge](https://img.shields.io/badge/Website-008000?style=for-the-badge)](http://afsanhabib.com/)
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/afsanhabib10)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afsan-habib-566340215)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.Instagram.com/afsanhabib)
-[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](afsan.uct@gmail.com)
-
-:e-mail: &emsp;How to reach me: afsan.uct@gmail.com<br/>
 
 
 ---
@@ -27,6 +23,11 @@ This is <a href="http://afsanhabib.me/"><u>Afsan Habib</u></a>, Passionate about
 
 ---
 
-<table style="width:100%">
 
-</table>
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/afsanhabib10)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afsan-habib-566340215)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.Instagram.com/afsanhabib)
+
+
+
+

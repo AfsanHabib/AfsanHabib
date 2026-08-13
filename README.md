@@ -2,7 +2,7 @@
 <!-- <a href="http://afsanhabib.com/"><u>Afsan Habib</u></a>  -->
 <!-- <br> -->
 <h1 align="center">Hi <img align="center" src="https://media.giphy.com/media/tuvMgAPzxaQBq/giphy.gif"  height="30" width="40" /> This is <a href="https://afsan.me/"><u>Afsan Habib</u></a></h1>
-<h3 align="center">AI Engineer | Python(Django) | Building AI-Powered Applications </h3>
+<h3 align="center">AI Engineer | Generative AI | LLM Applications | RAG | Python & Django | Building AI-Powered Applications </h3>
 <p align="center">
   AI Engineer focused on building practical, AI-powered applications. My focus is on practical application engineering — integrating language models into real systems — rather than research or model training.
 
